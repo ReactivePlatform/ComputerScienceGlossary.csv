@@ -1,3 +1,6 @@
-en,zh,pos,description
+en,zh-Hans,pos,description
 Scala,Scala,noun,Scala是一种编程语言
 function,函数,noun,
+functional programming,函数式编程,noun,一种编程范式
+Java,Java,noun,Java是一种编程语言
+higher-order function,高阶函数,noun,
