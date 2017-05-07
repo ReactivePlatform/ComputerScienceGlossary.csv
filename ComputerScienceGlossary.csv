@@ -1,6 +1,8 @@
 en,zh-Hans,pos,description
+Java,Java,noun,Java是一种编程语言
 Scala,Scala,noun,Scala是一种编程语言
+first-class citizen,一等公民,noun,
 function,函数,noun,
 functional programming,函数式编程,noun,一种编程范式
-Java,Java,noun,Java是一种编程语言
 higher-order function,高阶函数,noun,
+trait,特质,noun,Scala中的关键字
