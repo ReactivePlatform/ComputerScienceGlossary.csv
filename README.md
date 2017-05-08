@@ -4,3 +4,6 @@
 
 ## Utils
 在当前目录下执行`scala sort.scala`可以对术语库排序。
+
+## 术语表来源
+1. http://docs.scala-lang.org/glossary/

@@ -6,3 +6,4 @@ function,函数,noun,
 functional programming,函数式编程,noun,一种编程范式
 higher-order function,高阶函数,noun,
 trait,特质,noun,Scala中的关键字
+anonymous function,匿名函数,noun,
