@@ -6,19 +6,22 @@ function,函数,noun,
 functional programming,函数式编程,noun,一种编程范式
 higher-order function,高阶函数,noun,
 trait,特质,noun,Scala中的关键字
-alternative
-algebraic data type
-annotation
-anonymous class
-argument
-assign
-auxiliary constructor
+alternative,,,
+algebraic data type,,,
+annotation,,,
+anonymous class,,,
+argument,,,
+assign,,,
+auxiliary constructor,,,
 anonymous function,匿名函数,noun,
-block
-bound variable
-by-name parameter
-by-value parameter
-class
-closure
+block,,,
+bound variable,,,
+by-name parameter,,,
+by-value parameter,,,
+class,,,
+closure,,,
 companion class,伴生类,noun,
 companion object,伴生对象,noun,
+contravariant,,,
+covariant,,,
+currying,柯里化,,
