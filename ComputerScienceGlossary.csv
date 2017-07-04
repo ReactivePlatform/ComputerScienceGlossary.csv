@@ -1,5 +1,14 @@
 en,zh-Hans,pos,description
 Java,Java,noun,Java是一种编程语言
+Experiment Driven Development, 实验驱动开发, noun, 
+immutability, 不变性, noun,
+mutability, 可变性, noun,
+immutable programming, 不变性编程, noun,
+imperative, 命令式, noun,
+boilerplate, 样板代码, noun,
+immutable reference, 不变引用, noun,
+read-write lock, 读写锁, noun,
+random contention slowdown, 随机争用降速, noun,
 Scala,Scala,noun,Scala是一种编程语言
 first-class citizen,一等公民,noun,
 function,函数,noun,
@@ -42,5 +51,7 @@ free variable,自由变量,noun,
 function literal,函数字面量,noun,
 function value,函数值,noun,
 functional style,函数式风格,,
+functional composition,,,
 type class,类型类,noun,
 positional notation,占位符,noun,
+currying,柯里化,noun,
