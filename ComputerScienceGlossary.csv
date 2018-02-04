@@ -1,4 +1,5 @@
 en,zh-Hans,pos,description
+access modifier, 访问修饰符, noun
 Experiment Driven Development, 实验驱动开发, noun, 
 Java,Java,noun,Java是一种编程语言
 Scala,Scala,noun,Scala是一种编程语言
@@ -57,3 +58,8 @@ read-write lock, 读写锁, noun,
 trait,特质,noun,Scala中的关键字
 type class,类型类,noun,
 unchecked exception, noun, 非受检异常
+Java primitive, Java 基本类型, noun, 
+method call, 方法调用, noun, 
+multiple assignment, 多重赋值, noun, 
+named argument, 命名参数, noun,
+raw string, 原始字符串, noun, 
