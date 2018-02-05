@@ -7,6 +7,11 @@ val sorted = allLines match {
     List.empty
 }
 
+sorted.foreach { line =>
+  println(line)
+  assert(line.count(_ == ',') == 3)
+}
+
 import java.io.File
 import java.io.PrintWriter
 val pw = new PrintWriter(new File("ComputerScienceGlossary.csv"))
